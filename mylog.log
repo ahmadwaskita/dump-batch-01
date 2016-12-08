@@ -1,0 +1,5 @@
+[2016-12-07 20:57:46.949] [INFO] mylog - info msg
+[2016-12-07 20:57:46.955] [WARN] mylog - warn msg
+[2016-12-07 20:57:46.955] [ERROR] mylog - error msg
+[2016-12-07 20:57:46.955] [FATAL] mylog - fatal msg
+[2016-12-07 20:57:46.955] [DEBUG] mylog - debug msg
